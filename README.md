@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pouya-neuro
 - 👀 I’m interested in AI, computational neuroscience and cognitive science.
 - 🌱 I’m currently learning AI at the University of Bath
-- 💞️ I’m looking to collaborate on AI research projects focusing on the theoretical side (e.g. neuro-inspired algorithms / architectures
-- or algorithms for novel hardware components). 
+- 💞️ I’m looking to collaborate on AI research projects focusing on the theoretical side of AI (e.g. neuro-inspired algorithms / architectures or algorithms for novel hardware components). 
 - 📫 How to reach me pouyaneuro@gmail.com
 
 <!---
