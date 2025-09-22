@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pouya-neuro
-- 👀 I’m interested in AI.
-- 💞️ I’m looking to collaborate on AI research projects focusing on the theoretical side of AI.
+- 👀 I’m interested in consciousness and in causal modelling aand inference. 
+- 💞️ I’m open to collaborations in the fields above. 
 - 📫 How to reach me pouyaneuro@gmail.com
 
 <!---
