@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pouya-neuro
-- 👀 I’m interested in consciousness and in causal modelling aand inference. 
+- 👀 I’m interested in consciousness and in causal modelling and inference. 
 - 💞️ I’m open to collaborations in the fields above. 
 - 📫 How to reach me pouyaneuro@gmail.com
 
